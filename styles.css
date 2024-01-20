@@ -5,6 +5,11 @@ body {
   background-color: #eeacff;
 }
 
+body, header {
+  margin: 0;
+  padding: 0;
+}
+
 header {
     background-color: #333;
     color: #fff;
@@ -139,6 +144,8 @@ h1 {
   position: relative;
   padding: 10px;
   bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #probability2{
@@ -150,6 +157,8 @@ h1 {
   position: relative;
   padding: 10px;
   bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #probability3{
@@ -159,6 +168,8 @@ h1 {
   text-align: center;
   position: relative;
   padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 
 }
 
